@@ -1,17 +1,16 @@
-**Author:** Andrey Rybalka
+# Hi there, I'm Andrey! 👋
 
-### 👨‍💻 About me
-I am a student at ITMO University.
+**AI Engineering Student at ITMO University** 🎓
 
-Current Studies:
-- **Major**: AI Engineering (1st-year student)
-- **Primary Interests**: Machine Learning & Artificial Intelligence
-
-Actively Mastering:
+🛠 Tech Stack & Tools:
 - **Languages**: Python, C
-- **Tools**: Git, Linux
+- **AI/ML:** PyTorch (Learning), NumPy, Pandas
+- **Tools**: Git, Linux, VirtualBox
+- **Web**: Django, bootstrap
+- **3D**: blender, quixel
 
 ### 📫 Connect with Me
 | Platform | Link |
 | :--- | :--- |
 | **Email** | 14072007tiger@gmail.com |
+|**Telegram**| https://t.me/Dirty3dom |
