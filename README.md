@@ -1,19 +1,17 @@
-**Автор:** Андрей Рыбалка
+**Author:** Andrey Rybalka
 
-### 👨‍💻 Обо мне
-Я студент из Университета ИТМО.
+### 👨‍💻 About me
+I am a student at ITMO University.
 
-В настоящее время я изучаю:
-* ИТМО/Инженерия ИИ (Студент 1 курса)
-* Основные области интересов: Машинное обучение.
+Current Studies:
+- **Major**: AI Engineering (1st-year student)
+- **Primary Interests**: Machine Learning & Artificial Intelligence
 
-Я активно работаю над освоением:
-* **Языки:** Python, c
-* **Инструменты:** Git, Linux
+Actively Mastering:
+- **Languages**: Python, C
+- **Tools**: Git, Linux
 
-### 📫 Связаться со мной
-| Платформа | Ссылка |
+### 📫 Connect with Me
+| Platform | Link |
 | :--- | :--- |
 | **Email** | 14072007tiger@gmail.com |
-
----
